@@ -5,13 +5,13 @@ import { CiShoppingCart } from "react-icons/ci";
 
 const Header = () => {
   return (
-    // mine
+    // mine's
     <div className="container">
     <div className='header'>
       <h3 className='audiophile'>audiophile</h3>
       <nav>
         <ul className='navigator'>
-          <li> <a className='nav-links' href="#">HOME</a></li>
+          <li> <a className='nav-links' href="#">HOMES</a></li>
           <li> <a className='nav-links' href="#">HEADPHONES</a></li>
           <li> <a className='nav-links' href="#">SPEAKERS</a></li>
           <li> <a className='nav-links' href="#">EARPHONES</a></li>
